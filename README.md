@@ -22,8 +22,14 @@ Sistema de gestion bancaria que permite la gestión de cuentas bancarias, usuari
 
 ### 📚 Librería externa implementada
 
-Se utilizó la librería **`Validator`** del **Equipo 2** para validar formularios de ingreso, transferencia y creación de cuentas.  
-🔗 [Repositorio de Validator del Equipo 2](<URL_DEL_REPOSITORIO>)
+Se utilizó la librería **`Librería `** del **Equipo 7** para validar las contraseñas con sus debidos formatos.  
+🔗 [Repositorio de Librería del Equipo 7](<https://github.com/Marco1120/Creacion-Libreria>).
+
+Se utilizó la librería **`Librería para enviar correo electronicos con PDF´s `** del **Equipo 2** para poder enviar correos con los pdf´s generados al momento de registrarse y hacer una operación.  
+🔗 [Repositorio de la librería para enviar correos con pdf del Equipo 2](<https://github.com/olmomomo/Libreria_correoElectronico>).
+
+También utilizamos las librerías hecha por el equipo la cual es **`Libreria de validacion de correos y contraseñas `** del equipo **Equipo 6** para validar los correos y contraseñas.
+🔗 [Repositorio de la librería para validar correos y contraseñas del Equipo 6](<https://github.com/YHUDIEL/Login-con-validaciones>).
 
 ---
 
