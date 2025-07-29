@@ -49,7 +49,10 @@ Incluimos tambien el componente del cuadro de texto del **Equipo 7** para ingres
 - Se activa al iniciar sesión para evitar accesos no autorizados de usuarios bot.
 - Utiliza el CAPTCHA del **Equipo 6** (Propio).
 
-  
+  <img width="987" height="664" alt="image" src="https://github.com/user-attachments/assets/e4351a58-2ffc-4e81-8915-e2143468c84e" />
+
+  Aqui se muestra la implementación del Captcha en el login, cuando el usuario entre al sistema.
+
 
 
 ### 👤 CRUD de Usuarios
