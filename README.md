@@ -35,16 +35,22 @@ También utilizamos las librerías hecha por el equipo la cual es **`Libreria de
 
 ### 🗓️ Componente visual integrado
 
-Incluimos el componente **`CalendarPicker`** del **Equipo 11** para seleccionar fechas en los reportes bancarios.  
-🔗 [Repositorio de CalendarPicker del Equipo 11](<URL_DEL_REPOSITORIO>)
+Incluimos el componente **`CaptchaPanel`** del **Equipo 6** para usarlo en el login para validar que el usuario no es un bot, para ello usamos el componente del Captcha.  
+🔗 [Repositorio de la librería para validar correos y contraseñas del Equipo 11](<https://github.com/YHUDIEL/Login-con-validaciones>).
+
+Incluimos tambien el componente del cuadro de texto del **Equipo 7** para ingresar la contraseña y con ello validar las contraseñas ingresadas.
+🔗 [Repositorio de Librería del Equipo 7](<https://github.com/Marco1120/Creacion-Libreria>).
 
 ---
 
 ## ✨ Funcionalidades Clave
 
 ### 🔒 Validación CAPTCHA
-- Se activa al iniciar sesión para evitar accesos no autorizados.
-- Utiliza el CAPTCHA del **Equipo 2**.
+- Se activa al iniciar sesión para evitar accesos no autorizados de usuarios bot.
+- Utiliza el CAPTCHA del **Equipo 6** (Propio).
+
+  
+
 
 ### 👤 CRUD de Usuarios
 - Administradores pueden registrar, modificar o eliminar clientes.
